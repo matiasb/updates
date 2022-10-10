@@ -1,0 +1,15 @@
+digests:
+  - digest: work.html
+    title: Grafana OnCall
+    since: 3 day
+    items:
+      - https://github.com/grafana/oncall
+
+  - digest: personal.html
+    title: Personal
+    since: 12 week
+    items:
+      - url: https://github.com/matiasb/python-unidiff
+      - url: https://github.com/matiasb/python-unrar
+      - url: https://github.com/matiasb/unpy2exe
+      - url: https://github.com/matiasb/demiurge
