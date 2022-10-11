@@ -1,7 +1,7 @@
 digests:
   - digest: work.html
     title: Grafana OnCall
-    since: 3 day
+    since: 1 day
     items:
       - https://github.com/grafana/oncall
 
